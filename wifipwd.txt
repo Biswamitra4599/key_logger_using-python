@@ -1,0 +1,68 @@
+{'ssid': 'POCO M2 Pro', 'password': 'levikharile.'}
+{'ssid': 'OnePlus 7 Pro', 'password': '99881235'}
+{'ssid': 'BH-4', 'password': 'information.lnmiit'}
+{'ssid': 'Redmi 8', 'password': '9851315344'}
+{'ssid': 'Galaxy A50sA4C6', 'password': '123456789'}
+{'ssid': 'Redmi Note 10 Pro', 'password': '123456789'}
+{'ssid': "Soumyadip's iPhone", 'password': None}
+{'ssid': 'iPhone', 'password': '000000000'}
+{'ssid': 'FACULTY', 'password': 'access.lnm'}
+{'ssid': 'HP-Print-ED-LaserJet Pro CSR Lab', 'password': 'qwerasdf'}
+{'ssid': 'LNMIIT', 'password': 'information.lnmiit'}
+{'ssid': 'Hello', 'password': '12345678'}
+{'ssid': 'Redmi Note 10 2', 'password': '87654321'}
+{'ssid': 'G8X ThinQ_4117', 'password': 'qwertyuiop'}
+{'ssid': 'vivo 1818', 'password': '12345666'}
+{'ssid': 'realme 7', 'password': '123456789'}
+{'ssid': 'Tireless Soul', 'password': '123456789'}
+{'ssid': 'Samar_4g', 'password': '123456789'}
+{'ssid': 'Realme C1', 'password': '12345678'}
+{'ssid': 'Pixel_7849', 'password': 'Roni@1234'}
+{'ssid': 'My Net_5G', 'password': 'Admin123'}
+{'ssid': 'My Net', 'password': 'Admin123'}
+{'ssid': 'MAJUMDAR2.0', 'password': '8617815669'}
+{'ssid': 'King ', 'password': 'aru@king1'}
+{'ssid': 'Kichukhon', 'password': 'pradip-81456'}
+{'ssid': 'Jarvis_5G', 'password': 'Kx28cdef#'}
+{'ssid': 'Hotel Ankur3', 'password': 'abcd1234'}
+{'ssid': 'Hotel Ankur 1', 'password': 'abcd1234'}
+{'ssid': 'Home Wi-Fi', 'password': 'donotaskagain@811'}
+{'ssid': 'Galaxy A52s 5GDF76', 'password': 'ruet8773'}
+{'ssid': 'Galaxy A10909D', 'password': '12345678'}
+{'ssid': 'Computer Infomedia', 'password': 'Create@123'}
+{'ssid': 'AKASH_DIGANTA', 'password': 'jishu@1234'}
+************************************
+{'ssid': 'POCO M2 Pro', 'password': 'levikharile.'}
+{'ssid': 'OnePlus 7 Pro', 'password': '99881235'}
+{'ssid': 'BH-4', 'password': 'information.lnmiit'}
+{'ssid': 'Redmi 8', 'password': '9851315344'}
+{'ssid': 'Galaxy A50sA4C6', 'password': '123456789'}
+{'ssid': 'Redmi Note 10 Pro', 'password': '123456789'}
+{'ssid': "Soumyadip's iPhone", 'password': None}
+{'ssid': 'iPhone', 'password': '000000000'}
+{'ssid': 'FACULTY', 'password': 'access.lnm'}
+{'ssid': 'HP-Print-ED-LaserJet Pro CSR Lab', 'password': 'qwerasdf'}
+{'ssid': 'LNMIIT', 'password': 'information.lnmiit'}
+{'ssid': 'Hello', 'password': '12345678'}
+{'ssid': 'Redmi Note 10 2', 'password': '87654321'}
+{'ssid': 'G8X ThinQ_4117', 'password': 'qwertyuiop'}
+{'ssid': 'vivo 1818', 'password': '12345666'}
+{'ssid': 'realme 7', 'password': '123456789'}
+{'ssid': 'Tireless Soul', 'password': '123456789'}
+{'ssid': 'Samar_4g', 'password': '123456789'}
+{'ssid': 'Realme C1', 'password': '12345678'}
+{'ssid': 'Pixel_7849', 'password': 'Roni@1234'}
+{'ssid': 'My Net_5G', 'password': 'Admin123'}
+{'ssid': 'My Net', 'password': 'Admin123'}
+{'ssid': 'MAJUMDAR2.0', 'password': '8617815669'}
+{'ssid': 'King ', 'password': 'aru@king1'}
+{'ssid': 'Kichukhon', 'password': 'pradip-81456'}
+{'ssid': 'Jarvis_5G', 'password': 'Kx28cdef#'}
+{'ssid': 'Hotel Ankur3', 'password': 'abcd1234'}
+{'ssid': 'Hotel Ankur 1', 'password': 'abcd1234'}
+{'ssid': 'Home Wi-Fi', 'password': 'donotaskagain@811'}
+{'ssid': 'Galaxy A52s 5GDF76', 'password': 'ruet8773'}
+{'ssid': 'Galaxy A10909D', 'password': '12345678'}
+{'ssid': 'Computer Infomedia', 'password': 'Create@123'}
+{'ssid': 'AKASH_DIGANTA', 'password': 'jishu@1234'}
+************************************
